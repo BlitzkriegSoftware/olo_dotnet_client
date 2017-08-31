@@ -39,5 +39,5 @@ to the `app.config` in the unit test project to run the tests
 
 * Stuart Williams <StuartW@Magenic.com>
 * Jamin Bontrager <Jamin.Bontrager@famousdaves.com>
-* Ramona Maxwell <RamonaM@magenic.com>
+* Ramona Maxwell <GitHub: @sqlsolver>
 
